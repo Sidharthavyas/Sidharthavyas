@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on UberClone.<br>👯 I’m looking to collaborate on JavaScript backend projects.<br>🤝 I’m looking for help with advanced React concepts.<br>🌱 I’m currently learning React and DSA in JavaScript.<br>💬 Ask me about JavaScript and backend development.<br>⚡ Fun fact: I built an AI-powered note-making app at my first hackathon!
+<br>👯 I’m looking to collaborate on JavaScript backend projects.<br>🤝 I’m looking for help with advanced React concepts.<br>🌱 I’m currently learning React and DSA in JavaScript.<br>💬 Ask me about JavaScript and backend development.<br>⚡ Fun fact: I built an AI-powered note-making app at my first hackathon!
 
 
 ## 🌐 Socials:
