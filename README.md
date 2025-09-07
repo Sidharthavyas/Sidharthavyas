@@ -1,6 +1,11 @@
 
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on JavaScript backend projects.<br>🤝 I’m looking for help with advanced React concepts.<br>🌱 I’m currently learning React and DSA in JavaScript.<br>💬 Ask me about JavaScript and backend development.<br>⚡ Fun fact: I built an AI-powered note-making app at my first hackathon!
+<br>🚀 Full-Stack Web Developer & Engineering Student<br>
+👯 Open to collaborating on JavaScript/Node.js backend projects<br>
+🌱 Currently diving deeper into React, Next.js & DSA in JavaScript<br>
+🤝 Looking for guidance with advanced React and frontend architectures<br>
+💬 Ask me about JavaScript, backend development, and building scalable apps<br>
+⚡ Fun fact: I built my first AI-powered note-making app at a hackathon!
 
 
 ## 🌐 Socials:
